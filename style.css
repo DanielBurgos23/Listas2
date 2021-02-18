@@ -1,0 +1,76 @@
+header{
+    font-family: 'Hanalei', cursive;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+
+  .primero {
+    border: #000000 1px solid;
+    empty-cells: hide;
+    margin: 0 auto;
+    
+  }
+
+  .segundo{
+     margin: 0 auto;
+     border-collapse: collapse;
+  }
+  td {
+    border: black 1px solid;
+    width: 320px;
+    text-align: center;
+    
+  }
+
+  caption {
+    caption-side: top;
+  }
+
+
+  .azulama {
+    background-color: rgb(234, 238, 15);
+    color: blue;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .azul{
+    color: blue;
+    font-weight: bold;
+  }
+
+  .vacio{
+    width: 1156px; 
+    height: 40px;
+    margin: 0 auto;
+  }
+
+  .caja{
+    width: 1156px; 
+    height: 40px;
+    margin: 0 auto;
+    background-color: yellow;
+    border: red 3px solid;
+  }
+  .azulamabajo{
+    caption-side: bottom;
+    background-color: rgb(234, 238, 15);
+    color: blue;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .negrita{
+      font-weight: bold;
+  }
+
+  .bord{
+    border:4px solid #f00;
+  }
+
+  hr{
+    width: 13cm;
+    color: grey;
+  }
